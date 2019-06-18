@@ -1,0 +1,9 @@
+node_modules/
+
+data/data.json
+data/definition.json
+
+data/meta.json
+data/model.bin
+data/model.txt
+data/README
