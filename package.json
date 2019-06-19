@@ -1,14 +1,14 @@
 {
-  "name": "writtenDeep",
+  "name": "BasicNeuralNetwork-VectorTraining",
   "version": "1.0.0",
-  "description": "",
+  "description": "Very simple example source code of how to train vectors in Brain.JS with Neural Network.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Seia-Soto",
+  "license": "MIT",
   "dependencies": {
     "brain.js": "^1.6.1",
     "line-reader": "^0.4.0"

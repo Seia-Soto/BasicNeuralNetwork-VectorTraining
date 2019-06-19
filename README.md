@@ -1,6 +1,6 @@
 # Vector training of Basic Neural Network
 
-This is an example source code of how to train vectors in Brain.JS with Neural Network (very simple).
+Very simple example source code of how to train vectors in Brain.JS with Neural Network.
 
 ## Preferences
 
